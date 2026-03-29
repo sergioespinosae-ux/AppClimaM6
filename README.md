@@ -136,7 +136,7 @@ weather-spa/
 
 ## 🔗 Repositorio
 
-[GitHub — weather-spa-vue](https://github.com/tu-usuario/weather-spa-vue)
+[GitHub — weather-spa-vue](https://github.com/sergioespinosae-ux/AppClimaM6)
 
 ---
 
